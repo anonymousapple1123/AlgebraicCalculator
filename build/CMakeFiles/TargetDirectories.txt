@@ -1,3 +1,0 @@
-/Users/ayushkumar/Code/IntermediateCalculator/build/CMakeFiles/main.dir
-/Users/ayushkumar/Code/IntermediateCalculator/build/CMakeFiles/edit_cache.dir
-/Users/ayushkumar/Code/IntermediateCalculator/build/CMakeFiles/rebuild_cache.dir
